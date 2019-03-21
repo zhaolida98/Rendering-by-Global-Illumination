@@ -1,0 +1,1 @@
+/usr/bin/g++   -fopenmp -g    CMakeFiles/smallpt.dir/1st_refactor/smallpt.cpp.o CMakeFiles/smallpt.dir/1st_refactor/function.cpp.o  -o smallpt 

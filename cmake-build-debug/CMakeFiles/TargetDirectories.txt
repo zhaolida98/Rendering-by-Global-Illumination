@@ -1,0 +1,3 @@
+/home/metaron/文档/Rendering-by-Global-Illumination/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/metaron/文档/Rendering-by-Global-Illumination/cmake-build-debug/CMakeFiles/smallpt.dir
+/home/metaron/文档/Rendering-by-Global-Illumination/cmake-build-debug/CMakeFiles/edit_cache.dir

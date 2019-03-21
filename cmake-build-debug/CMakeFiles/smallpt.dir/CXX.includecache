@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/metaron/文档/Rendering-by-Global-Illumination/1st_refactor/function.cpp
+stdio.h
+-
+math.h
+-
+stdlib.h
+-
+struct.h
+/home/metaron/文档/Rendering-by-Global-Illumination/1st_refactor/struct.h
+function.h
+/home/metaron/文档/Rendering-by-Global-Illumination/1st_refactor/function.h
+
+/home/metaron/文档/Rendering-by-Global-Illumination/1st_refactor/function.h
+stdio.h
+-
+math.h
+-
+
+/home/metaron/文档/Rendering-by-Global-Illumination/1st_refactor/smallpt.cpp
+math.h
+-
+stdlib.h
+-
+stdio.h
+-
+struct.h
+/home/metaron/文档/Rendering-by-Global-Illumination/1st_refactor/struct.h
+function.h
+/home/metaron/文档/Rendering-by-Global-Illumination/1st_refactor/function.h
+
+/home/metaron/文档/Rendering-by-Global-Illumination/1st_refactor/struct.h
+stdio.h
+-
+math.h
+-
+
